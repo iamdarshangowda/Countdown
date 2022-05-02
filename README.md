@@ -1,3 +1,3 @@
-Countdown | <a href="https://precious-raindrop-e9246b.netlify.app/">DEMO</a>
+Countdown | <a href="https://loquacious-taffy-69fe95.netlify.app/">DEMO</a>
 
 Vanilla Js Project
